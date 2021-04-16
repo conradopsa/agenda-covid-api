@@ -1,2 +1,10 @@
-com\example\springboot\Application.class
-com\example\springboot\HelloController.class
+io\conrado\api\starwars\config\ControllerConfig.class
+io\conrado\api\starwars\utils\IteratorsUtils.class
+io\conrado\api\starwars\services\PlanetaService.class
+io\conrado\api\starwars\helpers\ResponseException.class
+io\conrado\api\starwars\config\MongoConfig.class
+io\conrado\api\starwars\pojo\ResponsePlaneta.class
+io\conrado\api\starwars\controllers\PlanetaController.class
+io\conrado\api\starwars\models\Planeta.class
+io\conrado\api\starwars\services\FilmesService.class
+io\conrado\api\starwars\pojo\RequestPlaneta.class
